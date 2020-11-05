@@ -84,7 +84,7 @@
 
 .cont .column .ico_img {display: block; width: 60px; height: 60px; background: url(../img/icon.png) no-repeat; position: absolute; left: 0; top: 0;}
 .cont .column .ico_tit {padding-left: 70px; font-size: 16px; color: #2c94c4;}
-.cont .column .ico_desc {padding-left: 70px; padding-bottom: 15px; border-bottom: 1px solid #d0d0d0;}
+.cont .column .ico_desc {padding-left: 70px; padding-bottom: 15px; border-bottom: 1px solid #d0d0d0; margin-bottom: 15px;}
 
 .cont .col1 .ico_img {background-position: 0px -240px;}
 .cont .col2 .ico_img {background-position: 0px -300px;}
@@ -98,3 +98,27 @@
 .cont .col4 .ico_img:hover {background-position: -60px -420px;}
 .cont .col5 .ico_img:hover {background-position: -60px -480px;}
 .cont .col6 .ico_img:hover {background-position: -60px -540px;}
+
+/* 게시판 */
+.notice {position: relative;}
+.notice h4 {font-size: 14px; color: #0093bd; padding-bottom: 3px; font-weight: bold;}
+.notice li {overflow: hidden; text-overflow: ellipsis; white-space: nowrap; background: url(../img/dot.gif) no-repeat 0 8px; padding-left: 8px;}
+.notice li a {font-size: 12px;}
+.notice a.more {position: absolute; right: 0; top: 0; display: block; background: url(../img/icon.png) -150px -90px; width: 17px; height: 17px;}
+
+/* 게시판2 */
+.notice2 {position: relative; margin-top: 15px;}
+.notice2 h4 {font-size: 14px; color: #0093bd; padding-bottom: 3px; font-weight: bold;}
+.notice2 li {overflow: hidden;}
+.notice2 li a {float: left; width: 65%; font-size: 12px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;}
+.notice2 li span {float: right; width: 30%; text-align: right;}
+.notice2 a.more {position: absolute; right: 0; top: 0; display: block; background: url(../img/icon.png) -150px -90px; width: 17px; height: 17px;}
+
+/* 게시판3 */
+.notice3 {position: relative;}
+.notice3 h4 {font-size: 14px; color: #0093bd; padding-bottom: 3px; font-weight: bold;}
+.notice3 li {position: relative; padding: 8px 0 14px 60px;}
+.notice3 li a img {width: 50px; position: absolute; left: 0; top: 0; border: 1px solid #0093bd;}
+.notice3 li a strong {display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;}
+.notice3 li a span {display: block; font-size: 12px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;}
+.notice3 a.more {position: absolute; right: 0; top: 0; display: block; background: url(../img/icon.png) -150px -90px; width: 17px; height: 17px;}
