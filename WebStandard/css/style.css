@@ -182,7 +182,7 @@
 .notice4 li span {float: right; text-align: right; width: 30%;}
 .notice4 a.more {position: absolute; top: 9px; right: 9px;}
 
-/* 갤러리 */
+/* 갤러리
 .gallery {position: relative; border: 1px solid #ccc; height: 254px; overflow: hidden;}
 .gallery h4 {padding: 10px 0 8px 11px; border-bottom: 1px solid #ccc; font-size: 14px; font-weight: 700; color: #0093bd;}
 .gallery .gallery_btn {position: absolute; top: 7px; right: 5px;}
@@ -197,6 +197,22 @@
 .gallery .gallery_btn li.gb_icon2 a:hover {background-position: -173px -143px;}
 .gallery .gallery_btn li.gb_icon3 a:hover {background-position: -173px -166px;}
 .gallery .gallery_btn li.gb_icon4 a:hover {background-position: -173px -189px;}
+.gallery .gallery_img img {width: 100%;}
+*/
+
+/* 슬릭 갤러리 */
+.gallery {position: relative; border: 1px solid #ccc; height: 254px; overflow: hidden;}
+.gallery h4 {padding: 10px 0 8px 11px; border-bottom: 1px solid #ccc; font-size: 14px; font-weight: 700; color: #0093bd;}
+.gallery .gallery_btn {position: absolute; top: 7px; right: 5px;}
+.gallery .gallery_btn button {float: left; margin: 1px 2px; display: block; width: 23px; height: 23px; background: url(../img/icon.png) no-repeat;}
+.gallery .gallery_btn .gb_icon1 {background-position: -150px -120px;}
+.gallery .gallery_btn .gb_icon2 {background-position: -150px -143px;}
+.gallery .gallery_btn .gb_icon3 {background-position: -150px -166px;}
+.gallery .gallery_btn .gb_icon4 {background-position: -150px -189px;}
+.gallery .gallery_btn .gb_icon1:hover {background-position: -173px -120px;}
+.gallery .gallery_btn .gb_icon2:hover {background-position: -173px -143px;}
+.gallery .gallery_btn .gb_icon3:hover {background-position: -173px -166px;}
+.gallery .gallery_btn .gb_icon4:hover {background-position: -173px -189px;}
 .gallery .gallery_img img {width: 100%;}
 
 /* 로그인 */
