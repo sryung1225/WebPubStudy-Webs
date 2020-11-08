@@ -23,7 +23,9 @@
 - [x] [32] 갤러리 스크립트 <br>
 - [x] [33-34] 레이어 팝업 & 윈도우 팝업 <br>
 - [x] [35] 라이트 박스
-- [ ] [36] 마무리 <br>
+- [x] [36] 마무리 <br>
 
 <br><br>
 
+# 반응형 사이트 만들기 
+**🔔 WebStoryboy의 [youtube](https://youtu.be/tHy498wdPaA) / [tistory](https://wtss.tistory.com/204) / [github](https://github.com/webstoryboy/responsive2019)**  <br><br>
