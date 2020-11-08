@@ -2,7 +2,7 @@
 > 🧩 유투브 Webstoryboy [https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw](https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw)
 
 # 웹표준 사이트 만들기 
-**🔔 [youtube](https://youtu.be/tHy498wdPaA) / [tistory](https://wtss.tistory.com/category/SITE/01%20WEBSTANDARD) / [github](https://github.com/webstoryboy/webstandard2019)**  <br><br>
+**🔔 WebStoryboy의 [youtube](https://youtu.be/tHy498wdPaA) / [tistory](https://wtss.tistory.com/category/SITE/01%20WEBSTANDARD) / [github](https://github.com/webstoryboy/webstandard2019)**  <br><br>
 
 - [x] [01-07] 실습 전 기초 레이아웃 연습 <br>
 - [x] [08-09] 레이아웃 <br>
@@ -21,8 +21,9 @@
 - [x] [29-30] 전체메뉴, 배너 스크립트 <br>
 - [x] [31] 탭메뉴 스크립트 <br>
 - [x] [32] 갤러리 스크립트 <br>
-- [ ] [33] 레이어 팝업 <br>
-- [ ] [34] 윈도우 팝업 <br>
+- [x] [33-34] 레이어 팝업 & 윈도우 팝업 <br>
+- [ ] [35] 라이트 박스
+- [ ] [36] 마무리 <br>
 
 <br><br>
 
