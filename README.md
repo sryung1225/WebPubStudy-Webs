@@ -28,4 +28,27 @@
 <br><br>
 
 # 반응형 사이트 만들기 
-**🔔 WebStoryboy의 [youtube](https://youtu.be/tHy498wdPaA) / [tistory](https://wtss.tistory.com/204) / [github](https://github.com/webstoryboy/responsive2019)**  <br><br>
+**🔔 WebStoryboy의 [youtube](https://youtu.be/52TT7SLexxE) / [tistory](https://wtss.tistory.com/204) / [github](https://github.com/webstoryboy/responsive2019)**  <br><br>
+
+- [x] [01-07] 실습 전 기초 레이아웃 연습
+- [ ] [08] 문서 셋팅
+- [ ] [09] 아웃라이너
+- [ ] [10] 헤더 메뉴
+- [ ] [11] 헤더 타이틀
+- [ ] [12-13] 헤더 아이콘 & 헤더 아이콘 공유하기
+- [ ] [14-15] 전체 메뉴 & 전체 메뉴 - 라인 효과
+- [ ] [16] 타이틀
+- [ ] [17] 헤더 반응형
+- [ ] [18] 컨텐츠 레이아웃
+- [ ] [19] 컨텐츠 타이틀
+- [ ] [20-21] 메뉴 & 메뉴 반응형
+- [ ] [22-23] 게시판 (한줄효과 & 두줄효과)
+- [ ] [24-25] 블로그 영역 (고해상도 이미지)
+- [ ] [26-27] 이미지 슬라이드
+- [ ] [28] 라이트 박스
+- [ ] [29] 필터 이펙트
+- [ ] [30] 비디오
+- [ ] [31] 사이드 컨텐츠
+- [ ] [32] 푸터
+- [ ] [33] 접기/펼치기 스크립트
+- [ ] [34-36] 사이드 이펙트
