@@ -31,8 +31,7 @@
 **🔔 WebStoryboy의 [youtube](https://youtu.be/52TT7SLexxE) / [tistory](https://wtss.tistory.com/204) / [github](https://github.com/webstoryboy/responsive2019)**  <br><br>
 
 - [x] [01-07] 실습 전 기초 레이아웃 연습
-- [ ] [08] 문서 셋팅
-- [ ] [09] 아웃라이너
+- [x] [08-09] 문서 셋팅 & 아웃라이너
 - [ ] [10] 헤더 메뉴
 - [ ] [11] 헤더 타이틀
 - [ ] [12-13] 헤더 아이콘 & 헤더 아이콘 공유하기
