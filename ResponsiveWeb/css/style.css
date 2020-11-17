@@ -11,7 +11,7 @@ body {background: url(../img/header_bg.jpg) repeat-x center top;}
 #cont_left {float: left; width: 250px;}
 #cont_center {
     overflow: hidden;
-    min-height: 1300px; margin-right: 250px;
+    min-height: 1350px; margin-right: 250px;
     border-right: 1px solid #dbdbdb;
     border-left: 1px solid #dbdbdb;
 }
@@ -128,13 +128,13 @@ body {background: url(../img/header_bg.jpg) repeat-x center top;}
 }
 .column.col1 {}
 .column.col2 {}
-.column.col3 {border-bottom: 0px;}
+.column.col3 {border-bottom: 0;}
 .column.col4 {}
 .column.col5 {}
-.column.col6 {border-bottom: 0px;}
+.column.col6 {border-bottom: 0;}
 .column.col7 {}
 .column.col8 {}
-.column.col9 {border-bottom: 0px;}
+.column.col9 {border-bottom: 0;}
 
 /* 메뉴 */
 .menu {}
@@ -265,6 +265,7 @@ body {background: url(../img/header_bg.jpg) repeat-x center top;}
     .title .btn {display: none;}
     
     .nav > div li {width: 50%;}
+    .nav > div li:last-child li {width: 50%;}
     
     .column.col1 .col_tit {display: none;}
     .column.col1 .col_desc {display: none;}
