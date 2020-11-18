@@ -1,16 +1,15 @@
-//이미지 슬라이더
+//이미지 슬라이더 (slick.js)
 $(".slider").slick({
     dots: true,
     autoplay: true,
-    autoplaySpeed: 3000,
-    arrows: false,
+    autoplaySpeed: 2000,
+    arrows: true,
     responsive: [
         {
             breakpoint: 768,
             settings: {
-                arrows: true,
-                dots: false
-                }
+                autoplay: false
+            }
         }
     ]
 });
