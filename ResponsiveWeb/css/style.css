@@ -329,6 +329,9 @@ body {background: url(../img/header_bg.jpg) repeat-x center top;}
 @media (max-width: 960px){ /* 0~960px */
     #cont_center {margin-right: 0; border-right: 0;}
     #cont_right {position: static; width: 100%;}
+    .column.col3 {border-bottom: 1px solid #dbdbdb;}
+    .column.col6 {border-bottom: 1px solid #dbdbdb;}
+    
     .nav > div {float: none; width: 100%;}
     .nav > div:last-child {width: 100%;}
     .nav > div li {width: 33.3333%;}
@@ -339,7 +342,7 @@ body {background: url(../img/header_bg.jpg) repeat-x center top;}
     #cont_right .column {float: left; width: 33.3333%; box-sizing: border-box;}
     #cont_right .column.col7 {border-right: 1px solid #dbdbdb; border-bottom: 0;}
     #cont_right .column.col8 {border-right: 1px solid #dbdbdb; border-bottom: 0;}
-    #cont_right .column.col9 {border-right: 1px solid #dbdbdb; border-bottom: 0;}
+    #cont_right .column.col9 {border-bottom: 0;}
 }
 
 @media (max-width: 768px){ /* 0~768px */
