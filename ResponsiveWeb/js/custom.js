@@ -1,3 +1,8 @@
+//라이트 박스 (lightgallery.js)
+$(".lightbox").lightGallery({
+    
+});
+
 //이미지 슬라이더 (slick.js)
 $(".slider").slick({
     dots: true,

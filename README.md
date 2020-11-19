@@ -43,7 +43,7 @@
 - [x] [22-23] 게시판 (한줄효과 & 두줄효과)
 - [x] [24-25] 블로그 영역 (고해상도 이미지)
 - [x] [26-27] 이미지 슬라이드
-- [ ] [28] 라이트 박스
+- [x] [28] 라이트 박스
 - [ ] [29] 필터 이펙트
 - [ ] [30] 비디오
 - [ ] [31] 사이드 컨텐츠
@@ -54,7 +54,7 @@
 <br><br>
 
 # 메가박스 사이트 만들기 
-**🔔 WebStoryboy의 [youtube](https://youtu.be/aMdp43ocpWA) / [github](https://github.com/webstoryboy/megabox2019)**  <br><br>
+**🔔 WebStoryboy의 [youtube](https://youtu.be/aMdp43ocpWA) / [tistory](https://wtss.tistory.com/280) / [github](https://github.com/webstoryboy/megabox2019)**  <br><br>
 
 - [ ] [00] 시작
 - [ ] [01] 기본 셋팅
