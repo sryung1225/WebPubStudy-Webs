@@ -369,6 +369,7 @@ body {background: url(../img/header_bg.jpg) repeat-x center top;}
     
     .square a {width: 49%;}
     .square a:nth-child(10) {display: block;}
+    
 }
 
 @media (max-width: 480px){ /* 0~480px */
