@@ -56,7 +56,7 @@
 # 메가박스 사이트 만들기 
 **🔔 WebStoryboy의 [youtube](https://youtu.be/aMdp43ocpWA) / [tistory](https://wtss.tistory.com/280) / [github](https://github.com/webstoryboy/megabox2019)**  <br><br>
 
-- [ ] [00] 시작
+- [x] [00] 시작
 - [ ] [01] 기본 셋팅
 - [ ] [02] 헤더 영역
 - [ ] [03] 배너 영역
