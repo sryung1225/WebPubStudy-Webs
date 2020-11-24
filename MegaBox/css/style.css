@@ -2,6 +2,7 @@
 
 /* 레이아웃 */
 #header {width: 100%; height: 63px; border-bottom: 1px solid #c6c6c6;}
+#banner {position: relative;}
 
 /* 가운데 영역 */
 .container {position: relative; width: 1280px; margin: 0 auto;}
@@ -21,3 +22,27 @@
 .header .nav ul {border-left: 1px solid #c6c6c6;}
 .header .nav li {float: left; width: 103px; text-align: center; border-right: 1px solid #c6c6c6;}
 .header .nav li a {display: block; padding: 19px 10px; font-size: 17px; font-weight: 700; color: #444;}
+
+/* 배너 영역 */
+.banner-menu {overflow: hidden; position: absolute; left: 0; top: 20px; width: 100%; height: 100px;}
+.banner-menu a {color: #fff; font-size: 16px; transition: all 0.3s;}
+.banner-menu a:hover {color: #c1c1c1;}
+.banner-menu .bm_left ul {padding-top: 7px;}
+.banner-menu .bm_left {float: left;}
+.banner-menu .bm_left li {display: inline; margin-right: 30px;}
+.banner-menu .bm_left li.total {margin-right: 20px;}
+.banner-menu .bm_left li.total a {font-size: 14px; padding: 3px 10px; display: inline-block; border: 1px solid #fff; transition: all 0.3s;}
+.banner-menu .bm_left li.total a:hover {background: #fff; border-color: #000; color: #000;}
+.banner-menu .bm_right {float: right; overflow: hidden;}
+.banner-menu .bm_right ul {float: left;}
+.banner-menu .bm_right ul:first-child {padding-top: 7px;}
+.banner-menu .bm_right li {display: inline; text-align: center; margin-right: 20px;}
+.banner-menu .bm_right li.white {margin-right: 10px;}
+.banner-menu .bm_right li.white a {width: 80px; background-color: #fff; color: #3a0e6a; padding: 7px 30px 9px 30px; display: inline-block; border: 1px solid #fff;}
+.banner-menu .bm_right li.purple {margin-right: 0;}
+.banner-menu .bm_right li.purple a {width: 80px; background-color: #3a0e6a; color: #fff;  padding: 7px 30px 9px 30px; display: inline-block; border: 1px solid #6e40c4;}
+.banner-menu li.line {position: relative;}
+.banner-menu li.line > a {margin-right: 20px;}
+.banner-menu li.line:after {content: ''; width: 1px; height: 14px; background: #fff; position: absolute; right: -2px; top: 2px;}
+
+.banner-slider {}
