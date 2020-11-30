@@ -5,7 +5,8 @@
 #header {width: 100%; border-bottom: 1px solid #c6c6c6; background: #fff;}
 #banner {position: relative;}
 #movie {background: #f8f8f8;}
-#movie {}
+#event {}
+#opening {margin: 17px 0; background: url(../img/bg01.jpg) no-repeat center top; background-size: cover;}
 
 
 /* 가운데 영역 */
@@ -111,6 +112,20 @@
 .event_left .event_box2 {float: left; width: 50%;}
 .event_right {float: left; width: 32%;}
 
+/* 오프닝 */
+.opening {padding: 100px 0; text-align: center; color: #bb9b51;}
+.opening h2 {}
+.opening h2 .grand {background-position: 0 -175px; display: inline-block; width: 330px; height: 50px;}
+.opening .date {background-position: 0 -225px; display: inline-block; width: 260px; height: 45px;}
+.opening p.desc {font-size: 35px; font-weight: 300; padding-bottom: 20px; background: url(../img/bar.png) no-repeat bottom center; -webkit-background-size: 100%;
+background-size: 100%;}
+.opening .open_box {overflow: hidden; padding: 20px 3% 0 3%;}
+.opening .open_box > div {float: left; width: 27.3333%; margin: 4% 3% 0 3%; box-sizing: border-box; border: 1px solid #3b4b44; color: #fff; background: rgba(0,0,0,0.3);}
+.opening .open_box > div h3 {border: 1px solid #6e3abb; display: inline-block; margin-top: -24px; padding: 10px 20px; font-size: 19px; background: #39106a;}
+.opening .open_box > div p {font-size: 27px; padding: 6% 0 10% 0;}
+.opening .open_box > div p em {display: block;}
+.opening .open_box > div p strong {display: block; font-weight: 600;}
+
 
 
 
@@ -140,6 +155,9 @@
     .banner-slider .swiper-slide p {font-size: 16px; padding-top: 35px;}
     .movie_title ul {width: auto;}
     .movie_title li {width: 25%; box-sizing: border-box;}
+    
+    .opening p.desc {font-size: 24px;}
+    .opening .open_box {display: none;}
 }
 @media (max-width: 768px) {
     body {background: #d9d7e0;}
@@ -165,6 +183,9 @@
     .event h2 {font-size: 24px; font-weight: bold; padding-bottom: 20px; padding: 0;}
     .event_left {width: 100%;}
     .event_right {display: none;}
+    
+    .opening .date {display: none;}
+    .opening p.desc {font-size: 16px;}
     
 }
 @media (max-width: 600px) {
