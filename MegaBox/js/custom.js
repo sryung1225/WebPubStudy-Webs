@@ -26,6 +26,20 @@ var swiper2 = new Swiper('.swiper-container2',{
     autoplay: {
         delay: 6000,
     },
+    breakpoints: {
+        600: {
+            slidesPerView: 1.4,
+            spaceBetween: 24
+        },
+        768: {
+            slidesPerView: 2,
+            spaceBetween: 24
+        },
+        960: {
+            slidesPerView: 3,
+            spaceBetween: 24
+        }
+    },
 });
 
 
@@ -45,3 +59,6 @@ movBtn.click(function(e){
     movCont.css("display","none");
     movCont.eq(index).css("display","block");
 });
+
+/* 영화차트 반응형 */
+
