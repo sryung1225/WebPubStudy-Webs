@@ -1,4 +1,4 @@
-﻿> 👑 20.11 ~ <br>
+﻿> 👑 20.11 ~ 12<br>
 > 🧩 유투브 Webstoryboy [https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw](https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw)
 
 # 웹표준 사이트 만들기 
@@ -67,7 +67,7 @@
 - [x] [08] 영화 차트 탭 메뉴
 - [x] [09] 영화 차트 이미지 슬라이드
 - [x] [10] 영화 차트 이미지 슬라이드 반응형
-- [ ] [11] 이벤트 영역
+- [x] [11] 이벤트 영역
 - [ ] [12] 오프닝 영역
 - [ ] [13-14] 새로운 영화 영역
 - [ ] [15] 공지사항
