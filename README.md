@@ -2,8 +2,7 @@
 > 🧩 유투브 Webstoryboy [https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw](https://www.youtube.com/channel/UCsvQSv7EeCMHyYb9ENKAJZw)
 
 # 웹표준 사이트 만들기 
-**🔔 WebStoryboy의 [youtube](https://youtu.be/tHy498wdPaA) / [tistory](https://wtss.tistory.com/category/SITE/01%20WEBSTANDARD) / [github](https://github.com/webstoryboy/webstandard2019)**  <br><br>
-
+**🔔 WebStoryboy의 [youtube](https://youtu.be/tHy498wdPaA) / [tistory](https://wtss.tistory.com/category/SITE/01%20WEBSTANDARD) / [github](https://github.com/webstoryboy/webstandard2019)**  <br>
 - [x] [01-07] 실습 전 기초 레이아웃 연습 <br>
 - [x] [08-09] 레이아웃 <br>
 - [x] [10] 스킵메뉴 <br>
@@ -24,12 +23,11 @@
 - [x] [33-34] 레이어 팝업 & 윈도우 팝업 <br>
 - [x] [35] 라이트 박스
 - [x] [36] 마무리 <br>
-<br>
-> 🎈 완성본 [http://sryung1225.dothome.co.kr/WebStandard/](http://sryung1225.dothome.co.kr/WebStandard/)
+🎈🎈 완성본 [http://sryung1225.dothome.co.kr/WebStandard/](http://sryung1225.dothome.co.kr/WebStandard/)
 <br><br>
 
 # 반응형 사이트 만들기 
-**🔔 WebStoryboy의 [youtube](https://youtu.be/52TT7SLexxE) / [tistory](https://wtss.tistory.com/204) / [github](https://github.com/webstoryboy/responsive2019)**  <br><br>
+**🔔 WebStoryboy의 [youtube](https://youtu.be/52TT7SLexxE) / [tistory](https://wtss.tistory.com/204) / [github](https://github.com/webstoryboy/responsive2019)**  <br>
 
 - [x] [01-07] 실습 전 기초 레이아웃 연습
 - [x] [08-09] 문서 셋팅 & 아웃라이너
@@ -51,12 +49,11 @@
 - [x] [32] 푸터
 - [x] [33] 접기/펼치기 스크립트
 - [x] [34-36] 사이드 이펙트
-<br>
-> 🎈 완성본 [http://sryung1225.dothome.co.kr/ResponsiveWeb/](http://sryung1225.dothome.co.kr/ResponsiveWeb/)
+🎈🎈 완성본 [http://sryung1225.dothome.co.kr/ResponsiveWeb/](http://sryung1225.dothome.co.kr/ResponsiveWeb/)
 <br><br>
 
 # 메가박스 사이트 만들기 
-**🔔 WebStoryboy의 [youtube](https://youtu.be/aMdp43ocpWA) / [tistory](https://wtss.tistory.com/280) / [github](https://github.com/webstoryboy/megabox2019)**  <br><br>
+**🔔 WebStoryboy의 [youtube](https://youtu.be/aMdp43ocpWA) / [tistory](https://wtss.tistory.com/280) / [github](https://github.com/webstoryboy/megabox2019)**  <br>
 
 - [x] [00] 시작
 - [x] [01] 기본 셋팅
@@ -80,5 +77,4 @@
 - [x] [20] 탭메뉴, 스킵메뉴
 - [x] [21] Youtube API
 - [x] [22] 마무리
-<br>
-> 🎈 완성본 [http://sryung1225.dothome.co.kr/MegaBox/](http://sryung1225.dothome.co.kr/MegaBox/)
+🎈🎈 완성본 [http://sryung1225.dothome.co.kr/MegaBox](http://sryung1225.dothome.co.kr/MegaBox)
