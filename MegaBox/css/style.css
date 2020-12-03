@@ -177,7 +177,8 @@ background-size: 100%;}
 .notice li li dt .bar {position: relative; padding-right: 14px;}
 .notice li li dt .bar:after {content: ''; position: absolute; right: 4px; top: 5px; width: 1px; height: 10px; background: #999;}
 .notice li li dt em {color: #999;}
-.notice li li dd {color: #777; padding-top: 3px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;}
+.notice li li dd {color: #777; padding-top: 3px;}
+.notice li li dd a {border: 0; padding: 0; width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;}
 
 /* 헬프 - 할인카드 */
 .card {padding: 17px;}

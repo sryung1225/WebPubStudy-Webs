@@ -60,5 +60,21 @@ movBtn.click(function(e){
     movCont.eq(index).css("display","block");
 });
 
-/* 영화차트 반응형 */
 
+/* 공지사항 탭 메뉴 */
+var tabMenu = $(".notice");
+
+tabMenu.find("ul > li > ul").hide();
+tabMenu.find("ul > li.active > ul").show();
+
+function tabList(e){
+    e.preventDefault();
+    var target = $(this);
+    target.next().show().parent("li").addClass("active").siblings("li").removeClass("active").find("ul").hide();
+    // 버튼(a)을 클릭하면 옆에 있는 형제(ul)를 보여주고
+    // 형제의 부모(li)를 찾아 클래스에 active를 추가
+    // 부모(li)의 형제(다른 li)를 찾아 클래스에 active를 제거
+    // 부모의 형제(다른 li)의 자식(ul)을 찾아 숨김
+}
+
+tabMenu.find("ul > li > a").click(tabList).focus(tabList);
