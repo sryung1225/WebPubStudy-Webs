@@ -21,9 +21,10 @@
 - [x] [31] 탭메뉴 스크립트 <br>
 - [x] [32] 갤러리 스크립트 <br>
 - [x] [33-34] 레이어 팝업 & 윈도우 팝업 <br>
-- [x] [35] 라이트 박스
-- [x] [36] 마무리 <br>
-🎈🎈 완성본 [http://sryung1225.dothome.co.kr/WebStandard/](http://sryung1225.dothome.co.kr/WebStandard/)
+- [x] [35] 라이트 박스 <br>
+- [x] [36] 마무리
+
+**🎈🎈 완성본 [http://sryung1225.dothome.co.kr/WebStandard/](http://sryung1225.dothome.co.kr/WebStandard/)**
 <br><br>
 
 # 반응형 사이트 만들기 
@@ -49,7 +50,8 @@
 - [x] [32] 푸터
 - [x] [33] 접기/펼치기 스크립트
 - [x] [34-36] 사이드 이펙트
-🎈🎈 완성본 [http://sryung1225.dothome.co.kr/ResponsiveWeb/](http://sryung1225.dothome.co.kr/ResponsiveWeb/)
+
+**🎈🎈 완성본 [http://sryung1225.dothome.co.kr/ResponsiveWeb/](http://sryung1225.dothome.co.kr/ResponsiveWeb/)**
 <br><br>
 
 # 메가박스 사이트 만들기 
@@ -77,4 +79,5 @@
 - [x] [20] 탭메뉴, 스킵메뉴
 - [x] [21] Youtube API
 - [x] [22] 마무리
-🎈🎈 완성본 [http://sryung1225.dothome.co.kr/MegaBox](http://sryung1225.dothome.co.kr/MegaBox)
+
+**🎈🎈 완성본 [http://sryung1225.dothome.co.kr/MegaBox](http://sryung1225.dothome.co.kr/MegaBox)**
